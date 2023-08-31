@@ -1,6 +1,6 @@
 # TextField_Compose
 
-Este é um repositório que contém um exemplo de uso do Jetpack Compose para criar um campo de texto interativo em um aplicativo Android. O campo de texto é estilizado e personalizado para uma melhor experiência do usuário.
+Neste repositório, você encontrará um modelo básico de um aplicativo que utiliza o Jetpack Compose para mostrar um campo de texto e um trecho de texto. À medida que você digita um valor no campo de texto, esse valor é automaticamente atualizado no texto exibido.
 
 ![Demonstração](https://github.com/bportugal01/TextField_Compose/blob/VersionFinal/image/apresentacao.gif)
 
