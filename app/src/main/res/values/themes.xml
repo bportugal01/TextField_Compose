@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.Prj_TextField" parent="android:Theme.Material.Light.NoActionBar">
+
+        <!-- Defina a cor da barra de navegação -->
+        <item name="android:navigationBarColor">#FF09184D</item>
+
+        <!-- Resto das configurações do tema -->
+        </style>
+    </resources>
